@@ -34,3 +34,5 @@ const config = [
     modulesDirectories: ["src", "node_modules"],
   },
 ];
+
+module.exports = config;
