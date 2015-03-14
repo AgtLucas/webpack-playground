@@ -30,7 +30,7 @@ const config = [
     new ExtractTextPlugin("[name].css"),
   ],
   resolve: {
-    extensions: ["", ".js", ".sass", "scss"],
+    extensions: ["", ".js", ".sass", ".scss"],
     modulesDirectories: ["src", "node_modules"],
   },
 ];
