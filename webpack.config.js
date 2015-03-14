@@ -8,7 +8,7 @@ const sassLoaders = [
   "sass-loader?includePaths[]=" + path.resolve(__dirname, "./src"),
 ];
 
-const config = [
+const config = {
   entry: {
     app: ["./src/index"]
   },
@@ -33,6 +33,6 @@ const config = [
     extensions: ["", ".js", ".sass", ".scss"],
     modulesDirectories: ["src", "node_modules"],
   },
-];
+};
 
 module.exports = config;
