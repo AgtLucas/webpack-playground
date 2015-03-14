@@ -6,9 +6,9 @@ require('scss/utilities/cf');
 const Header = React.createClass({
   render () {
     return (
-      <div className="main-header cf">
+      <header className="main-header cf">
         Header!
-      </div>
+      </header>
     );
   }
 });
