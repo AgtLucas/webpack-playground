@@ -1,7 +1,7 @@
 const React = require('react');
 
-require('stylesheets/modules/header');
-require('stylesheets/utilities/cf');
+require('scss/modules/header');
+require('scss/utilities/cf');
 
 const Header = React.createClass({
   render () {
