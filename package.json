@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/webpack-playground/issues"
   },
-  "homepage": "https://github.com/AgtLucas/webpack-playground"
+  "homepage": "https://github.com/AgtLucas/webpack-playground",
+  "dependencies": {
+    "autoprefixer-loader": "^1.2.0",
+    "babel-core": "^4.7.12",
+    "babel-loader": "^4.1.0",
+    "css-loader": "^0.9.1",
+    "extract-text-webpack-plugin": "^0.3.8",
+    "react": "^0.13.0",
+    "sass-loader": "^0.5.0",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.7.3"
+  }
 }
