@@ -1,0 +1,19 @@
+{
+  "name": "webpack-playground",
+  "version": "1.0.0",
+  "description": "Webpack + CSS: http://bensmithett.com/smarter-css-builds-with-webpack/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgtLucas/webpack-playground.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/webpack-playground/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/webpack-playground"
+}
