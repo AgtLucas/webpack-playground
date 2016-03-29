@@ -1,7 +1,7 @@
-const React = require('react');
+const React = require('react')
 
-require('scss/base');
+require('scss/base')
 
-const Container = require('js/container');
+const Container = require('js/container')
 
-React.render(<Container />, document.querySelector('#main'));
+React.render(<Container />, document.querySelector('#main'))
